@@ -1,2 +1,1 @@
-# University
-The code during school, for retention
+16*16
